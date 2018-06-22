@@ -106,8 +106,8 @@ body {
 
 /* hover */
 .l-content:hover .userName::after{
-    left: 30px;
-    right: 30px;
+    left: 10px;
+    right: 10px;
 }
 .l-content:hover .header{
     opacity: 0;
