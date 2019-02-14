@@ -1,5 +1,5 @@
 # sample_smartPhone
-https://progriro.github.io/sample_smartPhone/
+https://shin81zzz.github.io/sample_smartPhone/
 
 スマートフォン用の簡単なログイン画面です。
 
